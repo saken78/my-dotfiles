@@ -6,7 +6,6 @@
     <td colspan="4"><img src="assets/250408_21h57m44s_screenshot.png"></td>
   </tr>
   
-    Homepage    
 
 
 UNFINISHED 🙇
@@ -15,3 +14,9 @@ Sources:
  Shell    : https://github.com/Axenide/Ax-Shell
  
  Dotfiles : https://github.com/Axenide/Dotfiles
+
+
+
+My shell is taken from Hyprfabricated and Ax-Shell, a tribute to them
+
+ Hyprfabricated : https://github.com/tr1xem/hyprfabricated
